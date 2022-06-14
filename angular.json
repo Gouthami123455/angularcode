@@ -233,7 +233,7 @@
           "options": {
             "main": "projects/ngx-example-library/src/test.ts",
             "tsConfig": "projects/ngx-example-library/tsconfig.spec.json",
-            "karmaConfig": "projects/ngx-example-library/karma.conf.js"
+            "karmaConfig": "projects/ngx-example-library/karma.conf.json",
           }
         }
       }
